@@ -13,7 +13,7 @@ This is a graphics editor application that was written with the goal of learning
 
 <img src="./images/main.png" width="600">
 
-## Technologies
+## Technologies used
 - .NET Framework 4.7.2
 - C# 7.3
 ## Room for improvement
