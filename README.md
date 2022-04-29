@@ -16,6 +16,7 @@ This is a graphics editor application that was written with the goal of learning
 ## Technologies used
 - .NET Framework 4.7.2
 - C# 7.3
+- Visual Studio 2017
 ## Room for improvement
 - Code refactoring
 - Adding more shapes
